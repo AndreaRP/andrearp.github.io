@@ -1,0 +1,33 @@
+# Experience template
+- layout: left
+  company: CNIC (Spanish National center for Cardiovascular Research)
+  link: https://www.cnic.es/
+  job_title: Predoctoral Researcher
+  dates: March 2017 - present
+  quote: >
+   Computational Biology applied to research on immune cells in homeostasis and circadian rhythms. Supervisors: Andrés Hidalgo, Fátima Sánchez-Cabo.
+  description: | # this will include new lines to allow paragraphs
+    Analysis of omics data (Single cell and bulk RNAseq, proteomics and epigenomics).    
+R package and Shiny app development.
+- layout: right
+  company: ISCIII
+  link: https://www.isciii.es/Paginas/Inicio.aspx
+  job_title: MSc Student
+  dates: February 2016 - February 2017
+  quote: >
+   Work in the Bioinformatics Unit of the National Microbiology Research Center 
+  description: | # this will include new lines to allow paragraphs
+    Master's Thesis and development of metagenomics tool for Viral Community Analysis.
+- layout: right
+  company: Tecnocom
+  job_title: Jr. Developer
+  dates: June 2015 - March 2016
+  description: | # this will include new lines to allow paragraphs
+    Development for Dynamics NAV ERP, Java and Android.
+- layout: right
+  company: Forcea | IMS Health
+  job_title: Intern Developer (Erasmus)
+  dates: March 2015 - June 2015
+  description: | # this will include new lines to allow paragraphs
+    Design and development of OLAP cubes using Cognos and SSAS. Development of Java desktop application integrated with Wherescape.
+

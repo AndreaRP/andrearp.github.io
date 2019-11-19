@@ -1,0 +1,63 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Andrea Rubio-Ponce
+title: Predoctoral Researcher
+email: arubio@cnic.es
+
+# Social links
+twitter_username: ABioIT
+github_username:  AndreaRP
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_content: | # this will include new lines to allow paragraphs
+Biologist turned software developer, turned Computational Biologist. Currently into <mark>immune cell heterogeneity</mark> and <mark>circadian rhythms</mark>.  
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+Skills: | # this will include new lines to allow paragraphs
+- Whole Genome Sequencing (WGS)      
+	- Quality filtering     
+	- de novo assembly and genome annotation    
+	- Alignment/mapping to reference genome, polymorphism identification      
+	- Use of genome browsers     
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

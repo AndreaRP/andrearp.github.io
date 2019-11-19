@@ -1,0 +1,25 @@
+# Education Template
+- layout: left
+  name: PhD. in Computational Biology
+  dates: 2016 - Present
+  quote: >
+     UAM (Autonomous University of Madrid)
+  description: | # this will include new lines to allow paragraphs
+    Molecular Biosciences: Bioinformatics and Molecular Systems Biology.
+- layout: left
+  name: MSc. in Bioinformatics and Computational Biology
+  dates: 2015 - 2016
+  quote: >
+     ISCIII
+- layout: left
+  name: Technical Degree in Cross-platform App Development
+  dates: 2013 - 2015
+  quote: >
+     I.E.S. Francisco de Quevedo
+  description: | # this will include new lines to allow paragraphs
+    Software development, implementation and maintenance. 
+- layout: left
+  name: University Degree in Biology
+  dates: 2006 - 2012
+  quote: >
+     UAM (Autonomous University of Madrid)
